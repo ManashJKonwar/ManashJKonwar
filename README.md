@@ -1,6 +1,6 @@
 ### 👋 My name is Manash J Konwar! 👾
 
-- 🔭 I’m currently working at [Accenture AI Labs](https://www.accenture.com/us-en) as a AI Specialist (Senior Data Scientist at [BAT](https://www.bat.com/)).
+- 🔭 I’m currently working at [Accenture AI Labs](https://www.accenture.com/us-en) as a AI Assoc Principal (Senior Data Scientist at [BAT](https://www.bat.com/)).
 - 🌱 I’m interested in the area of Computer Vision and specially in augmenting environments around autonomous beings.
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/His.
