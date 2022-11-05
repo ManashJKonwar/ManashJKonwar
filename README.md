@@ -10,11 +10,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ManashJKonwar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-### Stats
+### Github Views  
 
-<!-- <div align="center"> -->
+<a href="https://github.com/dsindex"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+
+### Stats  
+
 <img src="https://github-profile-trophy.vercel.app/?username=ManashJKonwar&theme=flat&no-frame=true&margin-w=30" />
-<!-- </div> -->
 
 ### Top Languages
 
