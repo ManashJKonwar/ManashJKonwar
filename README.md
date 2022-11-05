@@ -13,7 +13,7 @@
 ### Stats
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=dsindex&theme=flat&no-frame=true&margin-w=30" />
+   <img src="https://github-profile-trophy.vercel.app/?username=ManashJKonwar&theme=flat&no-frame=true&margin-w=30" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManashJKonwar&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
