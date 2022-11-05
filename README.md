@@ -12,7 +12,7 @@
 
 ### Github Views  
 
-<a href="https://github.com/dsindex"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+<a href="https://github.com/ManashJKonwar"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 
 ### Stats  
 
