@@ -12,4 +12,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManashJKonwar&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="left">
+    <p align="center">
+        <a href="https://github.com/ManashJKonwar/github-readme-stats"><img alt="Manash J Konwar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManashJKonwar&langs_count=10&layout=compact#" /></a>
+    </p>
+</div>
+
 Following are some of my favorite repositories that I have contributed to and/or contribute to. 
