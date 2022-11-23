@@ -10,6 +10,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ManashJKonwar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
+<img src="https://github-readme-stats-manashjkonwar.vercel.app/api?username=ManashJKonwar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
 ### Stats  
 
 <img src="https://github-profile-trophy.vercel.app/?username=ManashJKonwar&theme=flat&no-frame=true&margin-w=30" />
@@ -17,5 +19,7 @@
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManashJKonwar&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-manashjkonwar.vercel.app/api/top-langs/?username=ManashJKonwar&langs_count=5&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 Following are some of my favorite repositories that I have contributed to and/or contribute to. 
