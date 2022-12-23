@@ -8,7 +8,7 @@
 - 🙃 Recipient of the Encore Award for Stewardship and Client Value Creation at Accenture End and Innovator of the Year at Client End.
 - 📫 More details - [Manash J Konwar Linkedin](https://www.linkedin.com/in/manashjkonwar/).
 
-<img src="https://github-readme-stats-manashjkonwar.vercel.app/api?username=ManashJKonwar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&count_private=true">
+<img src="https://github-readme-stats-sepia-ten.vercel.app/api?username=ManashJKonwar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&count_private=true">
 
 ### Stats  
 
@@ -16,6 +16,6 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats-manashjkonwar.vercel.app/api/top-langs/?username=ManashJKonwar&langs_count=5&theme=algolia&count_private=true)](https://github.com/ManashJKonwar/github-readme-stats.git)
+[![Top Langs](https://github-readme-stats-sepia-ten.vercel.app/api/top-langs/?username=ManashJKonwar&langs_count=5&theme=algolia&count_private=true)](https://github.com/ManashJKonwar/github-readme-stats.git)
 
 Following are some of my favorite repositories that I have contributed to and/or contribute to. 
