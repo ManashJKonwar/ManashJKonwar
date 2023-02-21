@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats-sepia-ten.vercel.app/api?username=ManashJKonwar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&count_private=true">
 
-### Stats  
+### Statistics
 
 <img src="https://github-profile-trophy.vercel.app/?username=ManashJKonwar&theme=flat&no-frame=true&margin-w=30" />
 
