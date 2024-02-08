@@ -1,6 +1,7 @@
 ### 👋 My name is Manash J Konwar! 👾
 
-- 🔭 I’ have currently founded an Ecommerce based Online and Offline channel [Earth & We](https://www.earthnwe.com/) Previously, I was working at [Accenture AI Labs](https://www.accenture.com/us-en) as a AI Assoc Principal (Senior Data Scientist at [Sainsburys](https://www.sainsburys.co.uk/)).
+- 🔭 I’ have currently founded an Ecommerce business [Earth & We](https://www.earthnwe.com/) available through Online and Offline channel dealing with regional products and plan is to scale them to Pan India with top notch quality and design.
+- Previously, I was working at [Accenture AI Labs](https://www.accenture.com/us-en) as a AI Assoc Principal (Senior Data Scientist at [Sainsburys](https://www.sainsburys.co.uk/)).
 - 🌱 I’m interested in the area of Computer Vision and specially in augmenting environments around autonomous beings.
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/His.
